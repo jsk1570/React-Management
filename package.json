@@ -12,15 +12,12 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "concurrently": "^4.0.1",
+    "concurrently": "^4.1.2",
     "nodemon": "^2.0.7"
   },
   "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jsk1570/React-Management.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/jsk1570/React-Management.git",
+  "author": "username <user@email.mail>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jsk1570/React-Management/issues"
